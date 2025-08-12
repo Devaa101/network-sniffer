@@ -12,7 +12,7 @@ git clone https://github.com/Devaa101/network-sniffer.git
 
 cd network-sniff
 
-'''bash
+## bash
 
 chmod +x setup_sniffer.sh
 
