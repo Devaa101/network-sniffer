@@ -14,6 +14,6 @@ cd network-sniff
 
 ## bash
 
-chmod +x setup_sniffer.sh
+chmod +x sniffer.py
 
-./setup_sniffer.sh --break-system-packages
+python3 sniffer.py
