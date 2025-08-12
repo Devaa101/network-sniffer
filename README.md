@@ -8,6 +8,9 @@ Basic Python network sniffer using scapy
 - Saves captures to '.pcap' for Wireshark analysis
 
 ## Setup & Run
+git clone https://github.com/Devaa101/network-sniffer.git
+cd network-sniff
+
 '''bash
 chmod +x setup_sniffer.sh
-./setup_sniffer.sh
+./setup_sniffer.sh --break-system-packages
